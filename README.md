@@ -15,3 +15,7 @@ To provide simple git examples to users
 This is a simple web project that can be deployed to any server or locally
 
 ## How to Contribute
+
+### Copyright
+
+2019 Eu mesmo
