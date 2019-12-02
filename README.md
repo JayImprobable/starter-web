@@ -16,6 +16,8 @@ This is a simple web project that can be deployed to any server or locally
 
 ## How to Contribute
 
+Please fork this repo and issue Pull Requests for review
+
 ### Copyright
 
 2019 Eu mesmo
