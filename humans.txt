@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    All my peeps - myfeature branch
 
 # TECHNOLOGY COLOPHON
 
