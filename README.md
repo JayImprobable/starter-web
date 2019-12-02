@@ -8,7 +8,10 @@ This is an example of how to show different parts of the git repo and various co
 
 ## Purpose
 
-To provide simple git examples
+To provide simple git examples to users
 
 ## Deployment
+
+This is a simple web project that can be deployed to any server or locally
+
 ## How to Contribute
