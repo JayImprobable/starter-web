@@ -1,4 +1,4 @@
-# Starter Web Project
+# Starter Web Project - Compare branch README.md
 
 This is a simple website project to show how to use Git and Github together. Emergency fix after stash.
 
